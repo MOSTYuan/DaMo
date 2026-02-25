@@ -1,4 +1,4 @@
-# README: User guide for SSR algorithm based on DaMo microscopy
+# README: User guide for SSR algorithm based on DaMo
 
 ## Author
 
@@ -19,7 +19,7 @@ The software has been tested on MATLAB R2024b (Windows 11, version 24H2), MATLAB
 1. Download the repository.
 2. Extract folder "DaMo_MATLAB" and execute the main function “SSRecon.m” in it.
 
-Total installation time is under 1 second, requiring only the extraction of the 40 MB software_SSR.zip file with no dependency installations, compilation, or environment configuration (MATLAB R2021b or later must be pre-installed), which is tested on an Intel Core i7-9700 desktop (3.00 GHz base frequency) under Windows 11 Version 24H2.
+Total installation time is under 1 second, requiring only the extraction of the 64 MB software_DaMo folder with no dependency installations, compilation, or environment configuration (MATLAB R2021b or later must be pre-installed), which is tested on an Intel Core i7-9700 desktop (3.00 GHz base frequency) under Windows 11 Version 24H2.
 
 ## Demo
 
