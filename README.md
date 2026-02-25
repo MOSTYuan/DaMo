@@ -1,5 +1,7 @@
 # README: User guide for SSR algorithm based on SR-DaMo microscopy
 
+## Author
+
 Sijie Li, Mengqi Lu, Jing Yuan
 
 ## Introduction
