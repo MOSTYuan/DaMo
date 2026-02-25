@@ -16,8 +16,8 @@ The software has been tested on MATLAB R2024b (Windows 11, version 24H2), MATLAB
 
 ## Installation guide
 
-1. Extract the “software_DaMo.zip” package to a local directory. The package can be downloaded from the release (tags) on Figshare: <https://doi.org/10.6084/m9.figshare.29825972>
-2. Execute the main function “SSRecon.m”.
+1. Download the repository.
+2. Extract folder "DaMo_MATLAB" and execute the main function “SSRecon.m” in it.
 
 Total installation time is under 1 second, requiring only the extraction of the 40 MB software_SSR.zip file with no dependency installations, compilation, or environment configuration (MATLAB R2021b or later must be pre-installed), which is tested on an Intel Core i7-9700 desktop (3.00 GHz base frequency) under Windows 11 Version 24H2.
 
