@@ -1,4 +1,4 @@
-# README: User guide for SSR algorithm based on SR-DaMo microscopy
+# README: User guide for SSR algorithm based on DaMo microscopy
 
 ## Author
 
